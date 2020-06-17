@@ -10,9 +10,9 @@ namespace Azure.LogAnalytics.Model
         public string Categorie { get; set; }
         public string Location { get; set; }
         public string CurrentValue { get; set; }
-        public string Limit { get; set; }
+        public int Limit { get; set; }
         public string SubscriptionName { get; set; }
         public string SubscriptionId { get; set; }
-        public string UsagePercentage { get; set; }
+        public int UsagePercentage { get; set; }
     }
 }

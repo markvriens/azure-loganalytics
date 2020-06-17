@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-loganalytics-functionapp", "azure-loganalytics-functionapp\azure-loganalytics-functionapp.csproj", "{0F52B92F-9C1A-423D-8455-44313706504A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLogAnalyticsFunctionApp", "azure-loganalytics-functionapp\AzureLogAnalyticsFunctionApp.csproj", "{0F52B92F-9C1A-423D-8455-44313706504A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
